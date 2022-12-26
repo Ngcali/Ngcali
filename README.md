@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there I am Allie ! 👋
+
+- 🌱 I’m currently learning C
+- 👯 I’m looking to collaborate on Open Source
 
 <!--
 **Ngcali/Ngcali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
