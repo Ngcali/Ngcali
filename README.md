@@ -1,8 +1,8 @@
 ![](https://github.com/Ngcali/Ngcali/blob/main/linkedInImage.jpeg)
 
-Welcome!
+<h1>Welcome!<h1>
 
-You have finally discovered my Github profile.
+<h1>You have finally discovered my Github profile.<h1>
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,7 +13,7 @@ You have finally discovered my Github profile.
 </p>-->
 
 
-Happy Coding!
+<h1>Happy Coding!<h1>
 
 
 <!-- - 🌱 I’m currently learning C
