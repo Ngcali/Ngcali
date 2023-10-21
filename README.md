@@ -10,10 +10,10 @@
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>-->
 
-<h1>Welcome!<h1>
+Welcome!
 
-<h1>You have finally discovered my Github profile.<h1>
-<h1>Happy Coding!<h1>
+You have finally discovered my Github profile.
+Happy Coding!
 
 
 <!-- - 🌱 I’m currently learning C
