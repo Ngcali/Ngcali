@@ -46,7 +46,16 @@ Happy Coding!
   content: "";
   clear: both;
   display: table;
-} 
+}
+
+ .row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
 
 ![](https://komarev.com/ghpvc/?username=Ngcali&label=PROFILE+VIEWS)
 
