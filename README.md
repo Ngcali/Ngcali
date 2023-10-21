@@ -16,8 +16,8 @@ You have finally discovered my Github profile.
 Happy Coding!
 
 
-- 🌱 I’m currently learning C
-- 👯 I’m looking to collaborate on Open Source
+<!-- - 🌱 I’m currently learning C
+- 👯 I’m looking to collaborate on Open Source-->
 
 
 <br>
