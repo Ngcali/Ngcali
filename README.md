@@ -1,4 +1,4 @@
-![](https://github.com/Ngcali/Ngcali/blob/main/header.png)
+![](https://github.com/Ngcali/Ngcali/blob/main/linkedInImage.jpeg)
 
 Welcome!
 
