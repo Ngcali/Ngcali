@@ -34,29 +34,6 @@ Happy Coding!
   </div>
 </div> 
 
- /* Three image containers (use 25% for four, and 50% for two, etc) */
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
- .row {
-  display: flex;
-}
-
-.column {
-  flex: 33.33%;
-  padding: 5px;
-}
-
 ![](https://komarev.com/ghpvc/?username=Ngcali&label=PROFILE+VIEWS)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ngcali&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Ngcali/github-readme-stats)
